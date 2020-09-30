@@ -1,0 +1,38 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 74xx:74LS148 U?
+U 1 1 5E3D3C2D
+P 4950 2750
+F 0 "U?" H 4950 3631 50  0000 C CNN
+F 1 "74LS148" H 4950 3540 50  0000 C CNN
+F 2 "" H 4950 2750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS148" H 4950 2750 50  0001 C CNN
+	1    4950 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS148 U?
+U 1 1 5E3D4BBD
+P 4950 4800
+F 0 "U?" H 4950 5681 50  0000 C CNN
+F 1 "74LS148" H 4950 5590 50  0000 C CNN
+F 2 "" H 4950 4800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS148" H 4950 4800 50  0001 C CNN
+	1    4950 4800
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
